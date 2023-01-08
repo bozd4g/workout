@@ -1,4 +1,4 @@
-# 3 Day Split Workout Program
+# 3 Days Split Workout Program
 
 This is a 3 days per week split workout program. It is a simple program that is easy to follow and is a good starting point for intermediate lifters.
 
