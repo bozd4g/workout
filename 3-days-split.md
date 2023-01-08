@@ -1,19 +1,8 @@
-# Workout
-
-This is a simple workout repository that I use to track my workout progress.
-
-### [3x5 Workout Program](3x5.md)
-
-This is a 3x5 and 3x8-12 (assistant) workout program. It is a simple program that is easy to follow and is a good starting point for beginners. It is also a good program for intermediate lifters who want to focus on strength and size.
-
-### [3 Days Split Workout Program](3-days-split.md)
+# 3 Day Split Workout Program
 
 This is a 3 days per week split workout program. It is a simple program that is easy to follow and is a good starting point for intermediate lifters.
 
-### Current Program (3 Days Split)
-
-This is the my current program. I will use this program for 3-4 months. After 3-4 months, I will switch to another program.
-
+## Program
 
 ### Day 1 (Chest & Triceps)
 
