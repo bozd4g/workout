@@ -21,7 +21,7 @@ This is the my current program. I will use this program for 3-4 months. After 3-
 | ---------------------------- | --- | ------- | --------- |
 | Bench Press                  | 4   | 8 - 10  | 40 - 50   |
 | Incline Dumbbell Bench Press | 4   | 8 - 10  | 15 - 20   |
-| Decline Dumbbell Bench Press | 3   | 8 - 10  | 40 - 50   |
+| Decline Dumbbell Bench Press | 3   | 8 - 10  | 15 - 20   |
 | Decline Dumbbell Bench Fly   | 3   | 10 - 12 | 10 - 12.5 |
 | Squeeze Press                | 3   | 15 - 20 | 15 - 20   |
 | Cable Triceps Push Down      | 4   | 10 - 12 | 40 - 50   |
