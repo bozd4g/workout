@@ -35,11 +35,11 @@ This is the my current program. I will use this program for 3-4 months. After 3-
 | --------------------- | --- | ------- | --------- |
 | Lat Pull Down(Front)  | 4   | 8 - 10  | 35 - 45   |
 | Bent Over Barbell Row | 4   | 8 - 10  | 35 - 45   |
-| Long Row              | 3   | 10 - 12 | 40 - 50   |
+| Low Row               | 3   | 10 - 12 | 40 - 50   |
 | Dumbbell Row          | 3   | 10 - 12 | 15 - 20   |
 | Hyper Extension       | 3   | 12 - 15 | 10 - 15   |
 | Barbell Biceps Curl   | 4   | 10 - 12 | 20 - 25   |
-| Consantiration Curl   | 3   | 10 - 12 | 10 - 12.5 |
+| Concentration Curl    | 3   | 10 - 12 | 10 - 12.5 |
 | Dumbbell Hummer Curl  | 3   | 8 - 10  | 12.5 - 15 |
 
 #### Day 3 (Shoulder & Leg & Abs)
